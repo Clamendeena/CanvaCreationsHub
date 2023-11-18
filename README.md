@@ -1,3 +1,3 @@
-# CanvaCreationsHub
+# DesignHub
 
 Professionally crafted Canva Designs 
