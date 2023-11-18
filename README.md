@@ -1,3 +1,3 @@
 # CanvaCreationsHub
 
-This repository showcases professionally crafted Canva Designs 
+Professionally crafted Canva Designs 
