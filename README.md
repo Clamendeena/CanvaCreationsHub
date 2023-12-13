@@ -1,3 +1,3 @@
 # DesignHub
 
-Professionally crafted Canva Designs 
+Professionally crafted Designs using Figma and Canva
